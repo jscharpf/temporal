@@ -1,4 +1,4 @@
-# VLMs Can See Frames. Can They Understand Time?
+# VLMs Can See Frames. But Can They Understand Time?
 
 While vision-language models can describe what appears in a single frame, they may not always be able to tell what happened before.
 
