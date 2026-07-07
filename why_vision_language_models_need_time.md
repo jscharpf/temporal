@@ -1,5 +1,7 @@
 # VLMs Can See Frames. But Can They Understand Time?
 
+## Seeing Isn't Sequencing
+
 While vision-language models can describe what appears in a single frame, they may not always be able to tell what happened before.
 
 Think of a simple video where, initially, there is a cup on a table. Then, a hand enters the frame and takes the cup. A few seconds later, the cup is in the person’s hand. A VLM could probably describe each of these frames individually: “there is a cup on the table,” “there is a hand near the cup,” and “someone is holding a cup.”
