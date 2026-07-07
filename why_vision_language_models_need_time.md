@@ -1,4 +1,4 @@
-# Why Vision-Language Models Need Time
+# VLMs Can See Frames. Can They Understand Time?
 
 While vision-language models can describe what appears in a single frame, they may not always be able to tell what happened before.
 
